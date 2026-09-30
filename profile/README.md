@@ -13,6 +13,6 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [Pylon-co-works](https://github.com/AlchemistCxC/Pylon-co-works) | 基于 ACP 的通用 Agent GUI，高度可自定义的插件化交互体验 |
+| [Pylon-co-works](https://github.com/Teens-in-Times/Pylon-co-works) | 基于 ACP 的通用 Agent GUI，高度可自定义的插件化交互体验 |
 
 *更多项目陆续入驻……*
